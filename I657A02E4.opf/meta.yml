@@ -7,6 +7,10 @@ last_modified: '2022-07-27T11:37:54.638205'
 parser: null
 source_metadata:
   title: commentary
+  base:
+    6DEC:
+      title: commentary
+      base_file: 6DEC.txt
 statistics: {}
 quality: {}
 copyright:
